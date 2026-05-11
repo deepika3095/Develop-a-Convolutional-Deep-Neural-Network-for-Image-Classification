@@ -5,7 +5,6 @@ To develop a convolutional deep neural network (CNN) for image classification an
 
 ## Neural Network Model
 
-<img width="995" height="470" alt="image" src="https://github.com/user-attachments/assets/a53d7e70-7cca-40ab-a06a-cc49cc274424" />
 
 ## DESIGN STEPS
 ### STEP 1: 
@@ -26,9 +25,9 @@ Evaluate the trained model on test images and verify the classification accuracy
 
 ## PROGRAM
 
-### Name: Deepika S
+### Name: Deepika R
 
-### Register Number: 212223230039
+### Register Number: 212223230038
 
 ```
 python
