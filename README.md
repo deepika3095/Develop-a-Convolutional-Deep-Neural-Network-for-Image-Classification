@@ -1,7 +1,7 @@
 # Develop a Convolutional Deep Neural Network for Image Classification
 
 ## AIM
-To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
+To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images. 
 
 ##   PROBLEM STATEMENT AND DATASET
 Include the Problem Statement and Dataset.
