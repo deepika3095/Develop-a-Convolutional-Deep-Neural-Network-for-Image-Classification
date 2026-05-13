@@ -4,7 +4,7 @@
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
 ## Neural Network Model
-
+<img width="1896" height="777" alt="image" src="https://github.com/user-attachments/assets/f1c3b1a9-8f60-4ecf-ae08-a0a2ad8e93a5" />
 
 ## DESIGN STEPS
 ### STEP 1: 
